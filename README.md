@@ -7,7 +7,7 @@ Bu proje, 50.000'den fazla elmas kaydı içeren Diamonds veri seti üzerinde kap
 
 -Hedef değişken: Elmas fiyatı (price)
 # 🔍 Yapılanlar
--Keşifsel Veri Analizi (EDA)
+# Keşifsel Veri Analizi (EDA)
 
 -Eksik ve hatalı veri tespiti ve temizlenmesi
 
@@ -17,7 +17,7 @@ Bu proje, 50.000'den fazla elmas kaydı içeren Diamonds veri seti üzerinde kap
 
 -Korelasyon analizi
 
--Veri Ön İşleme
+# Veri Ön İşleme
 
 -Sıfır boyutlu hatalı kayıtların silinmesi
 
@@ -29,7 +29,7 @@ Bu proje, 50.000'den fazla elmas kaydı içeren Diamonds veri seti üzerinde kap
 
 -Multicollinearity nedeniyle x, y, z sütunlarının çıkarılması
 
--Makine Öğrenmesi Modelleri
+# Makine Öğrenmesi Modelleri
 | Model | R² | RMSE |
 |---|---|---|
 | Linear Regression | 0.87 | 0.35 |
