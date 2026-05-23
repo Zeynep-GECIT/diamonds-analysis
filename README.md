@@ -17,20 +17,11 @@ Kategorik değişkenlerin ordinal encoding ile sayısallaştırılması
 Hedef değişkene log dönüşümü uygulanması
 Multicollinearity nedeniyle x, y, z sütunlarının çıkarılması
 Makine Öğrenmesi Modelleri
-Model
-R²
-RMSE
-Linear Regression
-0.87
-0.35
-Deep Learning
-0.96
-0.17
-Random Forest
-0.98
-0.11
-XGBoost
-0.99
-0.09
+| Model | R² | RMSE |
+|---|---|---|
+| Linear Regression | 0.87 | 0.35 |
+| Deep Learning | 0.96 | 0.17 |
+| Random Forest | 0.98 | 0.11 |
+| XGBoost | 0.99 | 0.09 |
 # 🛠️ Kullanılan Teknolojiler
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, TensorFlow
